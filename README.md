@@ -6,3 +6,5 @@ This was one of my first projects with the UCD Professional Academy. I used exce
 ### [<ins>Project_laptop_prices.pdf.docx</ins>](https://github.com/17336293/Salaries-Among-Tech-Jobs/blob/main/Project_write_up.pdf): Project write-up.
 
 ### [<ins>README.md</ins>](https://github.com/17336293/Salaries-Among-Tech-Jobs/blob/main/README.md): YOU ARE HERE.
+
+### [<ins>salaries.csv</ins>](https://github.com/17336293/Salaries-Among-Tech-Jobs/blob/main/salaries.csv): Origional data set.
